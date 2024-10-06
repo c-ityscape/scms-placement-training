@@ -1,0 +1,10 @@
+The NIFTY 50 index represents 50 of the largest, most liquid, and most frequently traded stocks on the National Stock Exchange of India. The index is widely considered a benchmark of the Indian equity market, providing a barometer for the overall economic and market performance in India.
+
+Dataset Details:
+Timeframe: The data spans from January 1, 2000, to April 30, 2021.
+Level of Data: The dataset is at the day-level, containing the daily price history and trading volumes for each of the 50 stocks.
+Data Composition:
+Each stock has its own .csv file containing details such as Open, High, Low, Close, and Volume for every trading day.
+A separate metadata file provides macro-information about the stocks, such as sector classification and market capitalization.
+
+The NIFTY 50 is a critical tool for both domestic and international investors, as it provides insight into India's largest and most influential companies. Analyzing the historical performance of these stocks, particularly through clustering, allows investors to discover patterns in stock behavior, manage risks, and identify potential investment opportunities.

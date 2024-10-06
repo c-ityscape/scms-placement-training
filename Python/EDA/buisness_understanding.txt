@@ -1,0 +1,18 @@
+The goal of this project is to analyze the historical performance of the stocks in the NIFTY 50 index from the National Stock Exchange (NSE) of India. We aim to group similar stocks based on their price behavior and trading volume. By clustering these stocks, we can identify groups that behave similarly over time, which could offer insights into market sectors, help diversify portfolios, or highlight investment opportunities. Understanding the relationships between stocks is vital for investors and financial analysts seeking to optimize investment strategies.
+
+Key Questions:
+How do the closing prices of individual stocks change over time?
+
+We expect to visualize trends, identify major price movements, and assess the long-term growth or decline of specific stocks.
+What are the trading volume patterns of the stocks?
+
+We expect to identify periods of high trading activity, which might indicate significant market events or shifts in investor interest.
+Can we cluster the stocks into groups based on their price movements and trading volumes?
+
+We expect to find groups of stocks that exhibit similar performance, potentially representing companies from the same industry sectors or with similar market behaviors.
+What is the correlation between different stocks in the NIFTY 50?
+
+We expect to observe clusters of highly correlated stocks that move together, which could be indicative of similar market drivers (e.g., tech stocks, energy stocks).
+Expected Insights:
+We expect the clustering analysis to reveal distinct groups of stocks that exhibit similar price trends and trading volumes. These clusters may correspond to companies from the same sector (e.g., tech, financials, pharmaceuticals).
+We also expect the analysis to identify outliers or stocks with unique behavior compared to others, which could be worth investigating for special investment opportunities or risk management.
